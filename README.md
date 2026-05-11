@@ -1,4 +1,4 @@
-Health research has a measurement problem it has refused to name.
+Health research has a measurement problem.
 
 Race is the second most used variable in the entire field. It appears in surveillance systems, clinical trials, funding priorities, and policy decisions affecting millions of people. And it has never been held to the measurement standards we require of every other variable we use.
 
