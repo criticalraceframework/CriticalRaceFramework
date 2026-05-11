@@ -1,15 +1,26 @@
 Health research has a measurement problem it has refused to name.
+
 Race is the second most used variable in the entire field. It appears in surveillance systems, clinical trials, funding priorities, and policy decisions affecting millions of people. And it has never been held to the measurement standards we require of every other variable we use.
+
 Not once.
+
 Reliability — can the measure produce consistent results? For race, we don't know. We've never required an answer.
+
 Validity — does the measure capture what it claims to capture? Race is simultaneously treated as a proxy for genetics, culture, income, discrimination, and ancestry — often in the same study, never defended as any of them.
+
 Internal validity — can we draw causal inferences from this variable? Not without first establishing the two conditions above. We skip them and draw the inferences anyway.
+
 External validity — can findings generalize? To whom, exactly? A racial category that means something different across time, geography, census methodology, and self-identification cannot anchor a generalizable claim.
+
 These are not novel critiques. They are the foundational requirements of measurement science — requirements established long before this study, applied universally to every variable in quantitative research. Every variable except this one.
 Why has the field looked away? Partly politics. Partly inertia. Partly because the researchers who know the variable is broken also believe, correctly, that health disparities are real and that abandoning race risks rendering those disparities invisible. That is a genuine tension. It is not a scientific justification for suspending measurement standards.
+
 This study was motivated by that tension — and by the conviction that the communities most harmed by health inequity deserve research built on something sturdier than a variable no one can consistently define or measure. This study arises from a scholar with a community-based practice who has advocated for public housing and low-income residents for over a decade - whose work spans housing policy, environmental science, economic development, education, regulation, and community-informed research. He is saying that a new way is needed - that the current approach is methodologically precarious. That is important to note.
+
 The Critical Race Framework is the first tool in public health designed to apply standard measurement criteria — reliability, validity, internal validity, external validity — to studies that use racial taxonomy. It was developed across three iterative phases, validated by 30 PhD-level public health experts, and applied to 20 of the most highly cited health disparities studies in the literature.
+
 They did not score well against basic scientific standards.
+
 This is not an argument against studying health inequity. It is an argument that studying it badly — with a variable that cannot be reliably measured, validly defined, or meaningfully generalized — does not serve the populations it claims to protect. It produces noise dressed as evidence, and that noise shapes policy, funding, and practice.
 
 Dr. Christopher Williams Issues Statement on Interpreting Results from applying Critical Race Framework Study
